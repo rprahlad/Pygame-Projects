@@ -2,7 +2,7 @@
 
 import pygame
 import gamebox
-import random
+import random  
 
 camera = gamebox.Camera(800,600)
 count_tick = 0
